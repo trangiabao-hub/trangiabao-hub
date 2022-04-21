@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gia Bao</h1>
-<h3 align="center">A passionate frontend and backend developer from FPTU</h3>
+<h3 align="center">A passionate fullstack developer from FPTU</h3>
 
 - 🌱 I’m currently learning **ReactJS, Spring Boot**
 
